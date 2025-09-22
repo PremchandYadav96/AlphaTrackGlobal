@@ -1,5 +1,5 @@
 streamlit>=1.37,<1.38
-yfinance==0.2.66
+yfinance>=0.2.40,<0.3
 pandas>=2.3,<2.4
 pandas-ta>=0.4.71b0
 plotly>=5.23,<5.24

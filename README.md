@@ -42,7 +42,7 @@ Get the dashboard running in under a minute:
 
 - **🌐 Multi-Exchange Portfolio Tracking** – Manage stocks from NASDAQ, NSE, and BSE in one unified dashboard.
 - **📊 Real-Time Market Data** – Live prices, portfolio valuation, and P&L updates.
-- **💡 AI Advisory** – Buy/Sell/Hold signals powered by RSI & SMA indicators.
+- **🤖 AI Advisory** – Buy/Sell/Hold signals powered by RSI & SMA indicators.
 - **📈 Interactive Charts** – Candlesticks, moving averages, and time-range filters.
 - **🔮 Price Forecasting** – 10-day predictions using Meta’s Prophet with MAPE accuracy score.
 - **🏢 Company Profiles** – Official summaries and key financial ratios.

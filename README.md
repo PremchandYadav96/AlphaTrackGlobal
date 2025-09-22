@@ -24,7 +24,7 @@ Get the dashboard running in under a minute:
    pip install -r requirements.txt
    ```
 
-   (If requirements.txt is missing, install manually:)
+   If requirements.txt is missing, install manually:
    ```bash
    pip install streamlit yfinance pandas pandas-ta plotly prophet requests
    ```

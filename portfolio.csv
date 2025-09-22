@@ -1,0 +1,4 @@
+ticker,display_ticker,exchange,shares,purchase_date,purchase_price
+AAPL,AAPL,NASDAQ (USA),1,2025-09-04,239.77999877929688
+ORCL,ORCL,NASDAQ (USA),10,2025-09-04,223.0
+TCS.BO,TCS,BSE (India),10,2025-09-04,3095.75

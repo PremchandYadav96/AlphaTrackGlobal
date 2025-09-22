@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#4cc9f0"                # Elegant teal (modern & soothing)
+backgroundColor="#0d1117"             # Deep dark (like GitHub dark mode)
+secondaryBackgroundColor="#161b22"    # Slightly lighter dark for contrast
+textColor="#e6edf3"                   # Soft white with blue tint (readable)
+font="monospace"

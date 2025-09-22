@@ -1,7 +1,7 @@
-streamlit==1.35.0
+streamlit==1.37.0
 yfinance==0.2.40
-pandas==2.2.2
-pandas-ta==0.3.14b
+pandas==2.3.2
+pandas-ta==0.4.71b0
 plotly==5.23.0
 prophet==1.1.5
 requests==2.32.3

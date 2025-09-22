@@ -1,7 +1,7 @@
-streamlit==1.37.0
-yfinance==0.2.40
-pandas==2.3.2
-pandas-ta==0.4.71b0
-plotly==5.23.0
-prophet==1.1.5
-requests==2.32.3
+streamlit>=1.37,<1.38
+yfinance>=0.2.40,<0.3
+pandas>=2.3,<2.4
+pandas-ta>=0.4.71b0
+plotly>=5.23,<5.24
+prophet>=1.1,<1.2
+requests>=2.32,<2.33

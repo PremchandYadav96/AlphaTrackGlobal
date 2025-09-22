@@ -3,7 +3,7 @@
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B)
 
 **AlphaTrack Global Pro** is an advanced stock portfolio tracking and analysis dashboard built with **Python** and **Streamlit**.
-It empowers investors to seamlessly monitor holdings, analyze performance, and access AI-driven insights — all in one place.
+It empowers investors to seamlessly monitor holdings, analyze performance, and access AI-driven insights — all in one place with all features.
 
 Track investments across **NASDAQ (USA)**, **NSE (India)**, and **BSE (India)** with real-time prices, multi-currency conversion, and powerful analytics.
 
